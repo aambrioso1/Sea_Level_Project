@@ -11,7 +11,7 @@ This programs are relavant to the project:
 https://github.com/aambrioso1/HCC-Programming-Project/blob/master/noaa_test.py
 https://github.com/aambrioso1/HCC-Programming-Project/blob/master/noaa_json.py
 
-These were so programs I used in the past to collect temperature data from local (Florida) ports.
+These are programs I used in the past to collect temperature data from local (Florida) ports.
 
 # Things to do
 Figure out how to use the API to collect sea level data.
@@ -20,5 +20,5 @@ Decide how to store the data (csv, dataframe, or something else).
 Pick about 10 port throughout the US to collect data from.
 Write a program to collect and store data.
 Write a program to analyze the data.
-Prepare a presentation of the findings.
+Prepare a presentation of the findings include a displaying it on my website.
 
