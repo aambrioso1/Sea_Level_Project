@@ -9,11 +9,9 @@ We will use the API to gather data from about ten ports throughout the United St
 The data should go back as many years as possible.   We will use basic statistics to see whether
 sea levels are rising.
 
-These are programs I used in the past to collect temperature data from local (Florida) ports:
-- https://github.com/aambrioso1/HCC-Programming-Project/blob/master/noaa_test.py
-- https://github.com/aambrioso1/HCC-Programming-Project/blob/master/noaa_json.py
-
-
+The repository currently contains two programs I used in the past to collect temperature data from local (Florida) ports:
+- noaa_json.py
+- noaa_test.py
 
 ## Things to do
 - Figure out how to use the API to collect sea level data.
@@ -24,5 +22,5 @@ These are programs I used in the past to collect temperature data from local (Fl
 - Write a program to analyze the data.
 - Prepare a presentation of the findings include a displaying it on my website.
 
-This project in "Alex/sea_level_project" on my personal laptop.
+Note:  This project is clone at "Alex/sea_level_project" on my personal laptop.
 
