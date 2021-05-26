@@ -1,6 +1,7 @@
 # Sea_Level_Project
 A project for collect sea level data from using the CO-OPS API from the NOAA Tides and Currents webpage.
 
+## Introduction
 This is the API website:
 - https://api.tidesandcurrents.noaa.gov/api/prod/#requestResponse
 
@@ -14,7 +15,7 @@ This programs are relevant to the project:
 
 These are programs I used in the past to collect temperature data from local (Florida) ports.
 
-# Things to do
+## Things to do
 - Figure out how to use the API to collect sea level data.
 - Figure how far back the data goes, what units are used, and how frequently it is collected.
 - Decide how to store the data (csv, JSON, dataframe, or something else).
