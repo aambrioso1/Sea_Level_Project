@@ -1,5 +1,5 @@
 # Sea_Level_Project
-A project for collect sea level data from using the CO-OPS API from the NOAA Tides and Currents webpage.
+A project for collect sea level data using the CO-OPS API from the NOAA Tides and Currents webpage.
 
 ## Introduction
 This is the API website:
