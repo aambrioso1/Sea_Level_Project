@@ -22,5 +22,5 @@ The repository currently contains two programs I used in the past to collect tem
 - Write a program to analyze the data.
 - Prepare a presentation of the findings include a displaying it on my website.
 
-Note:  This project is clone at "Alex/sea_level_project" on my personal laptop.
+Note:  This project is cloned as "Alex/sea_level_project" on my personal laptop.
 
