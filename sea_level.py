@@ -3,7 +3,7 @@
 # Grabs data from CO-OPS stations
 
 """
-I am refactoring this so that it can work for temperature or mean sea level.
+I am refactoring this so it will generate data for mean sea level.
 
 Things to do
 ************

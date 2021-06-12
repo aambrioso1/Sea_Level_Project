@@ -1,4 +1,4 @@
-# alex/Sea_Level_Project/sea_level.py
+# Sea Level Project
 A project for collect sea level data using the CO-OPS API from the NOAA Tides and Currents webpage.
 
 ## Introduction
@@ -12,7 +12,7 @@ sea levels are rising.
 Python files available in the library
 -------------------------------------
 - Old code for collecting temperature data: noaa_json.py and noaa_test.py
--This is the main project code:  sea_level.py 
+- This is the main project code:  alex/Sea_Level_Project/sea_level.py
 
 ## Things to do
 - Figure how far back the data goes, what units are used, and how frequently it is collected.
@@ -20,10 +20,3 @@ Python files available in the library
 - Workout collection, analyzing, and graphing the data for a single port.
 - Pick about 10 ports throughout the US (Pacific, Gulf of Mexico, Atlantic) to collect more data from.
 - Prepare a presentation of the findings include displaying it on my website.
-
-<<<<<<< HEAD
-`python shortness`
-
-=======
-Note:  This project is cloned as "Alex/sea_level_project" on my personal laptop.
->>>>>>> modify README and nooa_json.py, create sea_level.py, at meantrend.cvs
