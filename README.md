@@ -2,7 +2,7 @@
 A project for collect sea level data using the CO-OPS API from the NOAA Tides and Currents webpage.
 
 ## Introduction
-This is the API website:
+This is the CO-OPS API website:
 - https://api.tidesandcurrents.noaa.gov/api/prod/#requestResponse
 
 We will use the API to gather data from about ten ports throughout the United States for sea level.
@@ -17,6 +17,6 @@ Python files available in the library
 ## Things to do
 - Figure how far back the data goes, what units are used, and how frequently it is collected.
 - Decide how to store the data (csv, JSON, dataframe, or something else).
-- Workout collection, analyzing, and graphing the data for a single port.
+- Complete the collection, and work out analyzing and graphing the data, for a single port.
 - Pick about 10 ports throughout the US (Pacific, Gulf of Mexico, Atlantic) to collect more data from.
 - Prepare a presentation of the findings include displaying it on my website.
